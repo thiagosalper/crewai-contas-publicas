@@ -1,0 +1,7 @@
+Com base no resumo de despesas fornecido identifique:
+
+- As principais subfunções de despesa;
+- Quais fornecedores receberam mais;
+- Quais subfunções receberam mais;
+
+Estruture os dados como uma lista.

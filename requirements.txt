@@ -1,0 +1,10 @@
+crewai
+pandas
+matplotlib
+ollama
+langchain
+langchain-ollama
+tabulate
+crewai[tools]
+duckduckgo-search
+python-dotenv
